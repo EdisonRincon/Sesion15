@@ -9,7 +9,7 @@ section{
     margin: 1em 0;
     padding: 1em;
     border: 1px solid #ddd;
-
+    border-radius: 8px;
 }
 header, footer{
     background-color: #333;
